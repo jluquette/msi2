@@ -1,0 +1,22 @@
+=head2 Wed Jul 17 10:13:33 2013: C<Module> L<Set::IntervalTree|Set::IntervalTree>
+
+=over 4
+
+=item *
+
+C<installed into: /home/ljl11/perl/share/perl/5.10.1>
+
+=item *
+
+C<LINKTYPE: dynamic>
+
+=item *
+
+C<VERSION: 0.07>
+
+=item *
+
+C<EXE_FILES: >
+
+=back
+

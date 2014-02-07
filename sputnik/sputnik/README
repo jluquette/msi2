@@ -1,0 +1,44 @@
+sputnik (beta test)
+
+sputnik is a quick and dirty way to search for repeat
+sequences with occaisional errors.  it works it's way
+through the sequence looking for patterns (of lengths 2 <->
+5) that repeat, allowing some degree of error by using the
+familiar method of giving points for matches and
+subtracting them for mismatches.  It doesn't compute an
+entire identity matrix first and then pick the best of the
+hits.  rather it starts at the beginning, and compares
+until the score falls below a cutoff threshold.  then it
+backs up to the best score that it got.  if it's above the
+reporting threshold it spits out a description to stdout.
+
+sputnik expects a file (one) in fasta format.  usage is
+
+   sputnik <sequence file>
+
+the test file, rep.lib, was compiled from genbank using a
+string search for "Homo Sapiens" and "repeat sequences"
+
+this is a very preliminary version.  current scoring values
+are +1 for exact match, -6 for mismatch (error, insertion or
+deletion).  The cutoff is -1 (i.e. falls below 0 we stop
+trying) and the reporting threshold is 8.  N is counted as
+a match but no point is given.  No mononucleotide repeats
+are reported.
+
+currently the maximum recursion depth is nailed to 5 for
+performance reasons, although I believe that the scores
+will diverge pretty rapidly anyway.  feel free to hack it
+up, and let me know asap about any problems or pressing
+needs.
+
+needs:  - more complete interface, multiple files, etc.
+        - search in both directions and merge overlapping
+          hits ?  (Ben Koop thinks not...)
+        - should allocate memory for file size, not nail
+          to defined max.
+        - man page
+        - handle other ambiguities besides 'N' ?
+
+-chris
+

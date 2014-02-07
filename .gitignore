@@ -1,0 +1,6 @@
+*.pyc
+*.swp
+*.o
+*.RData
+resources/*
+old/*

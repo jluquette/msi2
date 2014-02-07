@@ -1,0 +1,1023 @@
+>hsd4s233 LOCUS       HSD4S233      131 bp    DNA             PRI       07-FEB-1992
+dinucleotide 57 : 83 -- length 27 score 25
+TGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hshprma LOCUS       HSHPRMA       249 bp    DNA             PRI       01-MAY-1993
+dinucleotide 128 : 171 -- length 44 score 35
+GAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAAAGAGAGAGA
+dinucleotide 184 : 210 -- length 27 score 25
+GTGTGTGTGTGTGTGTGTGTGTGTGTG
+tetranucleotide 211 : 225 -- length 15 score 11
+CTGTCTGTCTGTCTG
+>hstanrep1 LOCUS       HSTANREP1     412 bp    DNA             PRI       03-NOV-1993
+dinucleotide 174 : 204 -- length 31 score 29
+ACACACACACACACACACACACACACACACA
+>hum207mfd LOCUS       HUM207MFD     159 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 29 : 78 -- length 50 score 48
+ACACACACACACACACACACACACACACACACACACACACACACACACAC
+>hum221mfd LOCUS       HUM221MFD     288 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 21 : 34 -- length 14 score 12
+TGTGTGTGTGTGTG
+dinucleotide 35 : 45 -- length 11 score 9
+CGCGCGCGCGC
+dinucleotide 52 : 85 -- length 34 score 32
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum230mfd LOCUS       HUM230MFD     380 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 256 : 295 -- length 40 score 38
+CACACACACACACACACACACACACACACACACACACACA
+>hum256mfd LOCUS       HUM256MFD     510 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 440 : 475 -- length 36 score 34
+ACACACACACACACACACACACACACACACACACAC
+>hum260mfd LOCUS       HUM260MFD     553 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 279 : 305 -- length 27 score 25
+ATATATATATATATATATATATATATA
+dinucleotide 317 : 357 -- length 41 score 32
+ACACACACACACACACACACACATACACACACACACACACA
+>hum275mfd LOCUS       HUM275MFD     258 bp ds-DNA             PRI       04-AUG-1993
+tetranucleotide 50 : 76 -- length 27 score 23
+ATACATACATACATACATACATACATA
+dinucleotide 84 : 116 -- length 33 score 31
+ACACACACACACACACACACACACACACACACA
+>hum276mfd LOCUS       HUM276MFD     217 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 87 : 134 -- length 48 score 46
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>hum278mfd LOCUS       HUM278MFD     307 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 63 : 100 -- length 38 score 29
+ACACACACACACACACACACACACACACAGACACACAC
+>hum286mfd LOCUS       HUM286MFD     178 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 75 : 114 -- length 40 score 38
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum297mdf LOCUS       HUM297MDF     190 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 127 : 160 -- length 34 score 32
+ACACACACACACACACACACACACACACACACAC
+>hum300mfd LOCUS       HUM300MFD     292 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 152 : 169 -- length 18 score 16
+ACACACACACACACACAC
+dinucleotide 185 : 222 -- length 38 score 36
+ACACACACACACACACACACACACACACACACACACAC
+>hum302mfd LOCUS       HUM302MFD     219 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 47 : 107 -- length 61 score 52
+ACACACACACACACACACACACACACACACACACAAACACACACACACACACACACACAC
+A
+tetranucleotide 177 : 189 -- length 13 score 9
+TGTTTGTTTGTTT
+>hum304mfd LOCUS       HUM304MFD     257 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 65 : 102 -- length 38 score 36
+CACACACACACACACACACACACACACACACACACACA
+>hum306mfd LOCUS       HUM306MFD     557 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 388 : 420 -- length 33 score 31
+CACACACACACACACACACACACACACACACAC
+>hum308mfd LOCUS       HUM308MFD     496 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 194 : 227 -- length 34 score 32
+CACACACACACACACACACACACACACACACACA
+>hum310mfd LOCUS       HUM310MFD     674 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 431 : 487 -- length 57 score 48
+ACACACACACACACAGACACACACACACACACACACACACACACACACACACACACA
+>hum311mfd LOCUS       HUM311MFD     629 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 513 : 555 -- length 43 score 41
+ACACACACACACACACACACACACACACACACACACACACACA
+>hum315mfd LOCUS       HUM315MFD     251 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 29 : 51 -- length 23 score 21
+ATATATATATATATATATATATA
+dinucleotide 52 : 85 -- length 34 score 32
+CACACACACACACACACACACACACACACACACA
+trinucleotide 210 : 246 -- length 37 score 16
+TTATTATTATTATTTTATTTTATTTTATTATTATTAT
+>hum316mfd LOCUS       HUM316MFD     327 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 234 : 279 -- length 46 score 44
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>hum317mfd LOCUS       HUM317MFD     279 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 61 : 95 -- length 35 score 33
+CACACACACACACACACACACACACACACACACAC
+>hum318mfd LOCUS       HUM318MFD     351 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 198 : 248 -- length 51 score 35
+ACACACACACACACACACACACACACACACACGCACATACACACACACACA
+>hum319mfd LOCUS       HUM319MFD     307 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 47 : 86 -- length 40 score 38
+ACACACACACACACACACACACACACACACACACACACAC
+>hum320mfd LOCUS       HUM320MFD     275 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 49 : 98 -- length 50 score 48
+ACACACACACACACACACACACACACACACACACACACACACACACACAC
+>hum321mfd LOCUS       HUM321MFD     344 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 190 : 224 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+>hum322mfd LOCUS       HUM322MFD     233 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 30 : 40 -- length 11 score 9
+CTCTCTCTCTC
+dinucleotide 51 : 91 -- length 41 score 39
+ACACACACACACACACACACACACACACACACACACACACA
+>hum323mfd LOCUS       HUM323MFD     262 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 205 : 239 -- length 35 score 33
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum324mfd LOCUS       HUM324MFD     278 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 88 : 134 -- length 47 score 45
+ACACACACACACACACACACACACACACACACACACACACACACACA
+>hum325mfd LOCUS       HUM325MFD     355 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 44 : 87 -- length 44 score 42
+CACACACACACACACACACACACACACACACACACACACACACA
+>hum326mfd LOCUS       HUM326MFD     429 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 335 : 388 -- length 54 score 52
+CACACACACACACACACACACACACACACACACACACACACACACACACACACA
+>hum327mfd LOCUS       HUM327MFD     474 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 276 : 310 -- length 35 score 33
+CACACACACACACACACACACACACACACACACAC
+dinucleotide 311 : 322 -- length 12 score 10
+TCTCTCTCTCTC
+>hum328mfd LOCUS       HUM328MFD     649 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 478 : 513 -- length 36 score 34
+ACACACACACACACACACACACACACACACACACAC
+>hum329mfd LOCUS       HUM329MFD     659 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 580 : 631 -- length 52 score 50
+ACACACACACACACACACACACACACACACACACACACACACACACACACAC
+>hum330mfd LOCUS       HUM330MFD     637 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 533 : 567 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+dinucleotide 591 : 624 -- length 34 score 13
+GAGAGAGAGAGAGAAGAGACAGAGAGAAGAGAGA
+>hum331mfd LOCUS       HUM331MFD     670 bp ds-DNA             PRI       04-AUG-1993
+tetranucleotide 340 : 352 -- length 13 score 9
+AAATAAATAAATA
+dinucleotide 551 : 591 -- length 41 score 39
+ACACACACACACACACACACACACACACACACACACACACA
+>hum332mfd LOCUS       HUM332MFD     363 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 131 : 177 -- length 47 score 45
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum333mfd LOCUS       HUM333MFD     394 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 260 : 291 -- length 32 score 30
+ACACACACACACACACACACACACACACACAC
+>hum334mfd LOCUS       HUM334MFD     323 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 53 : 82 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+dinucleotide 83 : 97 -- length 15 score 13
+TCTCTCTCTCTCTCT
+>hum335mfd LOCUS       HUM335MFD     280 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 146 : 190 -- length 45 score 43
+ACACACACACACACACACACACACACACACACACACACACACACA
+>hum336mfd LOCUS       HUM336MFD     298 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 168 : 213 -- length 46 score 44
+ACACACACACACACACACACACACACACACACACACACACACACAC
+>hum337mfd LOCUS       HUM337MFD     445 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 234 : 270 -- length 37 score 35
+CACACACACACACACACACACACACACACACACACAC
+>hum338mfd LOCUS       HUM338MFD     561 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 274 : 328 -- length 55 score 53
+ACACACACACACACACACACACACACACACACACACACACACACACACACACACA
+>hum339mfd LOCUS       HUM339MFD     582 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 334 : 390 -- length 57 score 48
+CACACACAAACACACACACACACACACACACACACACACACACACACACACACACAC
+>hum340mfd LOCUS       HUM340MFD     412 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 153 : 190 -- length 38 score 36
+CACACACACACACACACACACACACACACACACACACA
+>hum341mfd LOCUS       HUM341MFD     533 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 262 : 276 -- length 15 score 13
+CTCTCTCTCTCTCTC
+dinucleotide 277 : 318 -- length 42 score 33
+ACACACACACACACACACACACACACAAACACACACACACAC
+dinucleotide 319 : 360 -- length 42 score 33
+TCTCTCTCTCTCTCTCTCTCTCTCTCTTTCTCTCTCTCTCTC
+>hum342mfd LOCUS       HUM342MFD     427 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 249 : 259 -- length 11 score 9
+ATATATATATA
+dinucleotide 260 : 308 -- length 49 score 40
+CACACACACACACACACACACACACACACACACACACAAACACACACAC
+>hum343mfd LOCUS       HUM343MFD     551 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 426 : 468 -- length 43 score 41
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum344mfd LOCUS       HUM344MFD     479 bp ds-DNA             PRI       04-AUG-1993
+tetranucleotide 231 : 245 -- length 15 score 11
+AAACAAACAAACAAA
+dinucleotide 246 : 290 -- length 45 score 36
+ACACACACACACACACACACACACACACACACACATACACACACA
+>hum345mfd LOCUS       HUM345MFD     294 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 35 : 86 -- length 52 score 43
+ACACACACACACACACACACACACACACACACACACATACACACACACACAC
+dinucleotide 100 : 118 -- length 19 score 10
+TATATATATGTATATATAT
+dinucleotide 250 : 268 -- length 19 score 10
+AGAGAGAGAGAAAGAGAGA
+>hum346mfd LOCUS       HUM346MFD     245 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 84 : 130 -- length 47 score 45
+ACACACACACACACACACACACACACACACACACACACACACACACA
+>hum347mfd LOCUS       HUM347MFD     350 bp ds-DNA             PRI       04-AUG-1993
+pentanucleotide 70 : 84 -- length 15 score 10
+TAAAATAAAATAAAA
+dinucleotide 207 : 217 -- length 11 score 9
+ACACACACACA
+dinucleotide 300 : 327 -- length 28 score 26
+CACACACACACACACACACACACACACA
+>hum348mfd LOCUS       HUM348MFD     500 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 273 : 310 -- length 38 score 36
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum349mfd LOCUS       HUM349MFD     426 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 168 : 203 -- length 36 score 27
+ACACACACACACAAACACACACACACACACACACAC
+dinucleotide 256 : 282 -- length 27 score 25
+TATATATATATATATATATATATATAT
+>hum350mfd LOCUS       HUM350MFD     555 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 278 : 288 -- length 11 score 9
+TCTCTCTCTCT
+dinucleotide 300 : 341 -- length 42 score 40
+ACACACACACACACACACACACACACACACACACACACACAC
+>hum351mfd LOCUS       HUM351MFD     438 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 264 : 287 -- length 24 score 22
+ACACACACACACACACACACACAC
+dinucleotide 288 : 305 -- length 18 score 16
+TCTCTCTCTCTCTCTCTC
+>hum352mfd LOCUS       HUM352MFD     239 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 37 : 54 -- length 18 score 16
+TATATATATATATATATA
+dinucleotide 55 : 98 -- length 44 score 21
+CACACACACACACACACACAAACATACACACATACACACACACA
+>hum353mfd LOCUS       HUM353MFD     537 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 391 : 471 -- length 81 score 65
+ACACACACACACACACACACACACACACACACACAGACACACACACACACAGACACACAC
+ACACACACACACACACACACA
+>hum354mfd LOCUS       HUM354MFD     545 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 419 : 464 -- length 46 score 44
+AGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAG
+>hum355mfd LOCUS       HUM355MFD     681 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 570 : 607 -- length 38 score 36
+ACACACACACACACACACACACACACACACACACACAC
+>hum356mfd LOCUS       HUM356MFD     596 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 485 : 514 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+dinucleotide 516 : 536 -- length 21 score 19
+AGAGAGAGAGAGAGAGAGAGA
+>hum357mfd LOCUS       HUM357MFD     455 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 246 : 291 -- length 46 score 44
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hum358mfd LOCUS       HUM358MFD     275 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 123 : 172 -- length 50 score 41
+CACACACATACACACACACACACACACACACACACACACACACACACACA
+>hum359mfd LOCUS       HUM359MFD     747 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 430 : 450 -- length 21 score 19
+ATATATATATATATATATATA
+dinucleotide 451 : 474 -- length 24 score 22
+CACACACACACACACACACACACA
+>hum360mfd LOCUS       HUM360MFD     663 bp ds-DNA             PRI       04-AUG-1993
+dinucleotide 444 : 483 -- length 40 score 31
+CACACACACAGACACACACACACACACACACACACACACA
+>hum361mfd LOCUS       HUM361MFD     646 bp ds-DNA             PRI       04-AUG-1993
+tetranucleotide 225 : 243 -- length 19 score 15
+AAACAAACAAACAAACAAA
+dinucleotide 555 : 583 -- length 29 score 27
+ACACACACACACACACACACACACACACA
+>humcarpt LOCUS       HUMCARPT      202 bp ds-DNA             PRI       21-MAY-1993
+dinucleotide 67 : 118 -- length 52 score 43
+CACACACACAAACACACACACACACACACACACACACACACACACACACACA
+>humcarpta LOCUS       HUMCARPTA     417 bp ds-DNA             PRI       05-OCT-1993
+dinucleotide 113 : 145 -- length 33 score 31
+ACACACACACACACACACACACACACACACACA
+>humd11s LOCUS       HUMD11S       173 bp ds-DNA             PRI       06-MAY-1993
+dinucleotide 85 : 120 -- length 36 score 34
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humd2s213f LOCUS       HUMD2S213F    182 bp ss-mRNA            PRI       27-MAY-1993
+dinucleotide 76 : 123 -- length 48 score 46
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humd8s304a LOCUS       HUMD8S304A    271 bp ds-DNA             PRI       12-OCT-1993
+tetranucleotide 151 : 196 -- length 46 score 20
+AAGAAAGAAAGAAAGAAGGAAGGAAGGAAAGAAAGAAAGAAAGANA
+>humd8s315t LOCUS       HUMD8S315T    287 bp ds-DNA             PRI       01-NOV-1993
+tetranucleotide 151 : 165 -- length 15 score 11
+AAGAAAGAAAGAAAG
+tetranucleotide 177 : 213 -- length 37 score 15
+GAAAGAAAGAATGAANGANAGAAAGAATGAANGANAG
+>humd8s320t LOCUS       HUMD8S320T    497 bp ds-DNA             PRI       08-OCT-1993
+tetranucleotide 86 : 291 -- length 206 score 60
+AAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAGAGAAA
+GAGAGAGAAAGAAAAGANAGAGAAAGAAAGANAAANGAGAAAAGANAGANACAAACAAAG
+AAAGAAAGAGAAAGAANAGACAGAAAGAAAGAAAGAAGGAAAGAAAGAAAGAAGGANAGA
+NAGAAAGAAAGAAAGAAAGAAAGAAA
+tetranucleotide 292 : 323 -- length 32 score 27
+CAAACAAACAAACAAACAAACAAACAAACNAA
+>humd8s321 LOCUS       HUMD8S321     273 bp ds-DNA             PRI       09-SEP-1993
+dinucleotide 72 : 82 -- length 11 score 9
+AGAGAGAGAGA
+tetranucleotide 86 : 138 -- length 53 score 49
+AGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAA
+pentanucleotide 139 : 158 -- length 20 score 15
+AGAAAAGAAAAGAAAAGAAA
+tetranucleotide 195 : 221 -- length 27 score 17
+GAAAGAAAGAAAAAAGAAAGAAAGAAA
+>humd8sb LOCUS       HUMD8SB       413 bp ds-DNA             PRI       06-OCT-1993
+dinucleotide 191 : 231 -- length 41 score 39
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humd8sc LOCUS       HUMD8SC       545 bp ds-DNA             PRI       30-DEC-1993
+tetranucleotide 48 : 81 -- length 34 score 30
+AAATAAATAAATAAATAAATAAATAAATAAATAA
+>humd8se LOCUS       HUMD8SE       379 bp ds-DNA             PRI       01-NOV-1993
+tetranucleotide 219 : 302 -- length 84 score 74
+ATAGATAGATAGATAGATAGATAGATAGATAGATAGATGATAGATAGATAGATAGATAGA
+TAGATAGATAGATAGATAGATAGA
+tetranucleotide 303 : 322 -- length 20 score 16
+GACAGACAGACAGACAGACA
+dinucleotide 327 : 344 -- length 18 score 9
+GAGAGAGACAGAGAGAGA
+>humd8sf LOCUS       HUMD8SF       180 bp ds-DNA             PRI       06-OCT-1993
+dinucleotide 70 : 110 -- length 41 score 32
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTCTGTGTGT
+tetranucleotide 149 : 161 -- length 13 score 9
+AAATAAATAAATA
+>humd8sg LOCUS       HUMD8SG       480 bp ds-DNA             PRI       01-NOV-1993
+tetranucleotide 168 : 215 -- length 48 score 37
+AAATAAATAAATAAATAAATAAATAAATAAAATAAATAAATAAATAAA
+>humd9s126 LOCUS       HUMD9S126     500 bp ds-DNA             PRI       01-OCT-1993
+dinucleotide 236 : 275 -- length 40 score 31
+ACACACACACAAACACACACACACACACACACACACACAC
+>humdirpt LOCUS       HUMDIRPT      185 bp ds-DNA             PRI       30-NOV-1992
+dinucleotide 81 : 120 -- length 40 score 38
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humdrpa LOCUS       HUMDRPA        60 bp ds-DNA             PRI       20-SEP-1993
+dinucleotide 20 : 58 -- length 39 score 37
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humdrpb LOCUS       HUMDRPB       110 bp ds-DNA             PRI       20-SEP-1993
+dinucleotide 42 : 66 -- length 25 score 23
+GTGTGTGTGTGTGTGTGTGTGTGTG
+tetranucleotide 98 : 110 -- length 13 score 9
+CATGCATGCATGC
+>humdrpc LOCUS       HUMDRPC       136 bp ds-DNA             PRI       20-SEP-1993
+dinucleotide 20 : 41 -- length 22 score 20
+TGTGTGTGTGTGTGTGTGTGTG
+dinucleotide 42 : 83 -- length 42 score 40
+AGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAG
+dinucleotide 84 : 124 -- length 41 score 39
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humdrpd LOCUS       HUMDRPD       122 bp ds-DNA             PRI       20-SEP-1993
+dinucleotide 32 : 74 -- length 43 score 41
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humds8a LOCUS       HUMDS8A       479 bp ds-DNA             PRI       06-OCT-1993
+tetranucleotide 126 : 242 -- length 117 score 52
+GAAAGAAAGAAAGAAAAAGAAAGAAGAAAGAAAGAAAGAAGAAAGAAAGAAAGAAGAAAG
+AAAGAAAGAAAAAGAAAGAAAGAAAGAAAGAAGGAAAGAAAGAGAAAGAAAGAAAGA
+dinucleotide 250 : 276 -- length 27 score 18
+AGAGAGAGAGAGAAAGAGAGAGAGAGA
+tetranucleotide 292 : 307 -- length 16 score 12
+AAAGAAAGAAAGAAAG
+>humerpalu LOCUS       HUMERPALU    5169 bp ds-DNA             PRI       20-APR-1994
+trinucleotide 1488 : 1500 -- length 13 score 10
+CTCCTCCTCCTCC
+pentanucleotide 2325 : 2344 -- length 20 score 15
+TCTTTTCTTTTCTTTTCTTT
+tetranucleotide 4195 : 4213 -- length 19 score 15
+TTTATTTATTTATTTATTT
+>humgtrpt LOCUS       HUMGTRPT      367 bp ds-DNA             PRI       13-JUL-1992
+dinucleotide 40 : 63 -- length 24 score 15
+CTCTCTCTCTGTCTCTCTCTCTCT
+dinucleotide 73 : 109 -- length 37 score 35
+CACACACACACACACACACACACACACACACACACAC
+>humhdrpt LOCUS       HUMHDRPT      264 bp ds-DNA             PRI       02-OCT-1992
+dinucleotide 72 : 90 -- length 19 score 17
+CACACACACACACACACAC
+>humhntrpt LOCUS       HUMHNTRPT     611 bp ds-DNA             PRI       27-APR-1992
+dinucleotide 178 : 217 -- length 40 score 31
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTCTGTGTGT
+>humkcna5 LOCUS       HUMKCNA5      168 bp ds-DNA             PRI       27-AUG-1993
+tetranucleotide 68 : 84 -- length 17 score 13
+AGACAGACAGACAGACA
+dinucleotide 85 : 110 -- length 26 score 24
+CACACACACACACACACACACACACA
+>hummfd147 LOCUS       HUMMFD147     256 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 88 : 125 -- length 38 score 36
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>hummfd252 LOCUS       HUMMFD252     258 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 109 : 147 -- length 39 score 37
+ACACACACACACACACACACACACACACACACACACACA
+>hummfd255 LOCUS       HUMMFD255     245 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 52 : 110 -- length 59 score 50
+CACACACACACACACACACACACACACACTCACACACACACACACACACACACACACAC
+>hummfd293 LOCUS       HUMMFD293     440 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 201 : 231 -- length 31 score 15
+ATATATATATACATACATATATATATATATA
+dinucleotide 232 : 242 -- length 11 score 9
+CACACACACAC
+dinucleotide 391 : 416 -- length 26 score 24
+ACACACACACACACACACACACACAC
+>hummyopk LOCUS       HUMMYOPK     3184 bp ss-mRNA            PRI       22-SEP-1992
+trinucleotide 2687 : 2703 -- length 17 score 14
+TGCTGCTGCTGCTGCTG
+>humneflsat LOCUS       HUMNEFLSAT    136 bp ds-DNA             PRI       28-AUG-1992
+dinucleotide 24 : 46 -- length 23 score 21
+GTGTGTGTGTGTGTGTGTGTGTG
+dinucleotide 47 : 57 -- length 11 score 9
+CGCGCGCGCGC
+>humnucphob LOCUS       HUMNUCPHOB   1576 bp ds-DNA             PRI       23-JUL-1993
+trinucleotide 726 : 761 -- length 36 score 19
+GATGATGATGATGATGATTTTGATGATGATGATGAT
+>humnucphoc LOCUS       HUMNUCPHOC   1459 bp ds-DNA             PRI       23-JUL-1993
+trinucleotide 577 : 593 -- length 17 score 14
+GAAGAAGAAGAAGAAGA
+trinucleotide 594 : 614 -- length 21 score 11
+TGATGATGATGAAGATGATGA
+>humnucphof LOCUS       HUMNUCPHOF   1700 bp ds-DNA             PRI       23-JUL-1993
+trinucleotide 846 : 868 -- length 23 score 20
+TGCTGCTGCTGCTGCTGCTGCTG
+trinucleotide 869 : 899 -- length 31 score 21
+ATGATGATGAAGATGATGATGATGATGATGA
+>humpadprpz LOCUS       HUMPADPRPZ   9254 bp ds-DNA             PRI       06-APR-1994
+trinucleotide 2564 : 2579 -- length 16 score 13
+AAGAAGAAGAAGAAGA
+tetranucleotide 4844 : 4856 -- length 13 score 9
+TTTGTTTGTTTGT
+tetranucleotide 8076 : 8102 -- length 27 score 16
+AAATAAATAAATAAATAACTAAATAAA
+pentanucleotide 8954 : 8977 -- length 24 score 19
+TTTTGTTTTGTTTTGTTTTGTTTT
+>humpdr LOCUS       HUMPDR        277 bp ds-DNA             PRI       02-DEC-1992
+dinucleotide 131 : 169 -- length 39 score 37
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humpolymrp LOCUS       HUMPOLYMRP    179 bp ds-DNA             PRI       05-APR-1993
+dinucleotide 65 : 106 -- length 42 score 40
+ACACACACACACACACACACACACACACACACACACACACAC
+>humpolyrpt LOCUS       HUMPOLYRPT    594 bp ds-DNA             PRI       05-APR-1993
+tetranucleotide 73 : 159 -- length 87 score 57
+AAAGAAAGAAAGAAAGAAAGGTAAGAAAAAGAAAGAAAGAAAGAAAGAAAGAAAGAAAGA
+AAGAAAGAAAGAAAGAAAGAAAGAAAG
+tetranucleotide 160 : 302 -- length 143 score 104
+GAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAGGAAAGGAAGGAAGGAA
+GGAAGGAAGGAAGGAAGGAAAGGAAGGAAGGAAGGAAGGAAGGAAAGAAAGGAAAGGAAG
+GAAGGAAGGAAGGAAGGAAGGAA
+>humps28s LOCUS       HUMPS28S     2704 bp ds-DNA             PRI       28-JUL-1993
+trinucleotide 1630 : 1651 -- length 22 score 19
+TAATAATAATAATAATAATAAT
+tetranucleotide 1904 : 1917 -- length 14 score 10
+TTTGTTTGTTTGTT
+>humras1a LOCUS       HUMRAS1A     1830 bp ds-DNA             PRI       26-FEB-1993
+pentanucleotide 1128 : 1143 -- length 16 score 11
+TGTTTTGTTTTGTTTT
+>humrepb LOCUS       HUMREPB       300 bp ds-DNA             PRI       14-SEP-1993
+dinucleotide 239 : 270 -- length 32 score 30
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humrepd LOCUS       HUMREPD       124 bp ds-DNA             PRI       02-NOV-1993
+dinucleotide 43 : 74 -- length 32 score 30
+CACACACACACACACACACACACACACACACA
+>humrepe LOCUS       HUMREPE       170 bp ds-DNA             PRI       02-NOV-1993
+dinucleotide 95 : 118 -- length 24 score 22
+CACACACACACACACACACACACA
+>humrepf LOCUS       HUMREPF       142 bp ds-DNA             PRI       02-NOV-1993
+dinucleotide 31 : 42 -- length 12 score 10
+ACACACACACAC
+dinucleotide 50 : 77 -- length 28 score 26
+CACACACACACACACACACACACACACA
+>humrepg LOCUS       HUMREPG       187 bp ds-DNA             PRI       02-NOV-1993
+dinucleotide 82 : 111 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>humreph LOCUS       HUMREPH       140 bp ds-DNA             PRI       02-NOV-1993
+dinucleotide 42 : 88 -- length 47 score 45
+ACACACACACACACACACACACACACACACACACACACACACACACA
+>humrepp LOCUS       HUMREPP       376 bp ds-DNA             PRI       31-DEC-1993
+dinucleotide 73 : 96 -- length 24 score 22
+CACACACACACACACACACACACA
+dinucleotide 97 : 167 -- length 71 score 63
+GAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGAGGAGAGAG
+AGAGAGAGAGA
+dinucleotide 217 : 227 -- length 11 score 9
+ACACACACACA
+>humrpa LOCUS       HUMRPA         99 bp ds-DNA             PRI       01-NOV-1993
+dinucleotide 41 : 72 -- length 32 score 30
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpb LOCUS       HUMRPB        187 bp ds-DNA             PRI       01-NOV-1993
+dinucleotide 76 : 105 -- length 30 score 28
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+dinucleotide 111 : 124 -- length 14 score 12
+GTGTGTGTGTGTGT
+>humrpc LOCUS       HUMRPC        146 bp ds-DNA             PRI       01-NOV-1993
+dinucleotide 12 : 47 -- length 36 score 34
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpd LOCUS       HUMRPD         85 bp ds-DNA             PRI       01-NOV-1993
+dinucleotide 45 : 82 -- length 38 score 36
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpe LOCUS       HUMRPE        109 bp ds-DNA             PRI       01-NOV-1993
+dinucleotide 31 : 79 -- length 49 score 47
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpf LOCUS       HUMRPF        156 bp ds-DNA             PRI       01-NOV-1993
+tetranucleotide 36 : 49 -- length 14 score 10
+AAGAAAGAAAGAAA
+dinucleotide 55 : 84 -- length 30 score 28
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt01a LOCUS       HUMRPT01A     284 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 182 : 230 -- length 49 score 47
+ACACACACACACACACACACACACACACACACACACACACACACACACA
+>humrpt02a LOCUS       HUMRPT02A     304 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 200 : 235 -- length 36 score 34
+CACACACACACACACACACACACACACACACACACA
+>humrpt03a LOCUS       HUMRPT03A     355 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 235 : 271 -- length 37 score 28
+TCTCTCTCTCTCTCTTTCTCTCTCTCTCTCTCTCTCT
+dinucleotide 272 : 286 -- length 15 score 13
+ATATATATATATATA
+dinucleotide 287 : 318 -- length 32 score 30
+CACACACACACACACACACACACACACACACA
+>humrpt04a LOCUS       HUMRPT04A     487 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 370 : 408 -- length 39 score 37
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt05a LOCUS       HUMRPT05A     202 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 99 : 133 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+>humrpt06a LOCUS       HUMRPT06A     264 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 121 : 141 -- length 21 score 19
+TCTCTCTCTCTCTCTCTCTCT
+dinucleotide 144 : 180 -- length 37 score 35
+ACACACACACACACACACACACACACACACACACACA
+>humrpt07a LOCUS       HUMRPT07A     178 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 29 : 58 -- length 30 score 28
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humrpt08a LOCUS       HUMRPT08A     274 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 196 : 233 -- length 38 score 36
+CACACACACACACACACACACACACACACACACACACA
+>humrpt09a LOCUS       HUMRPT09A     395 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 187 : 208 -- length 22 score 20
+TCTCTCTCTCTCTCTCTCTCTC
+dinucleotide 209 : 252 -- length 44 score 35
+ACACACACACACACACACACACACACACACACACACGACACACA
+>humrpt10a LOCUS       HUMRPT10A     303 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 242 : 271 -- length 30 score 28
+CACACACACACACACACACACACACACACA
+>humrpt11a LOCUS       HUMRPT11A     193 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 87 : 161 -- length 75 score 73
+CACACACACACACACACACACACACACACACACACACACACACACACACACACACACACA
+CACACACACACACAC
+>humrpt12a LOCUS       HUMRPT12A     240 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 114 : 148 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+>humrpt13a LOCUS       HUMRPT13A     306 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 114 : 160 -- length 47 score 45
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+tetranucleotide 163 : 176 -- length 14 score 10
+GGAGGGAGGGAGGG
+>humrpt14a LOCUS       HUMRPT14A     306 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 103 : 144 -- length 42 score 40
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humrpt15a LOCUS       HUMRPT15A     242 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 56 : 87 -- length 32 score 30
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humrpt16a LOCUS       HUMRPT16A     322 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 193 : 240 -- length 48 score 39
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTATGTGTGTG
+>humrpt17a LOCUS       HUMRPT17A     270 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 96 : 131 -- length 36 score 34
+ACACACACACACACACACACACACACACACACACAC
+>humrpt18a LOCUS       HUMRPT18A     282 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 169 : 209 -- length 41 score 39
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt19a LOCUS       HUMRPT19A     281 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 81 : 109 -- length 29 score 27
+CACACACACACACACACACACACACACAC
+>humrpt20a LOCUS       HUMRPT20A     251 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 158 : 187 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>humrpt21a LOCUS       HUMRPT21A     187 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 47 : 80 -- length 34 score 32
+CACACACACACACACACACACACACACACACACA
+>humrpt22a LOCUS       HUMRPT22A     200 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 86 : 125 -- length 40 score 38
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+tetranucleotide 132 : 151 -- length 20 score 16
+TGTATGTATGTATGTATGTA
+>humrpt23a LOCUS       HUMRPT23A     270 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 72 : 101 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>humrpt24a LOCUS       HUMRPT24A     281 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 95 : 136 -- length 42 score 40
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt25a LOCUS       HUMRPT25A     413 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 280 : 324 -- length 45 score 37
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGGTGTGTG
+>humrpt26a LOCUS       HUMRPT26A     290 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 221 : 275 -- length 55 score 53
+ACACACACACACACACACACACACACACACACACACACACACACACACACACACA
+>humrpt27a LOCUS       HUMRPT27A     457 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 348 : 400 -- length 53 score 37
+CACACACACACACCCACACACCCACACACACACACACACACACACACACACAC
+>humrpt28a LOCUS       HUMRPT28A     324 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 256 : 300 -- length 45 score 43
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt29a LOCUS       HUMRPT29A     268 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 67 : 112 -- length 46 score 37
+TCTCTCTCTCTCTTTCTCTCTCTCTCTCTCTCTCTCTCTCTCTCTC
+dinucleotide 113 : 141 -- length 29 score 21
+ACACACACACACACACACACACCACACAC
+>humrpt30a LOCUS       HUMRPT30A     205 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 64 : 95 -- length 32 score 30
+ACACACACACACACACACACACACACACACAC
+>humrpt31a LOCUS       HUMRPT31A     297 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 172 : 214 -- length 43 score 41
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt32a LOCUS       HUMRPT32A     245 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 33 : 75 -- length 43 score 41
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+dinucleotide 76 : 90 -- length 15 score 13
+AGAGAGAGAGAGAGA
+>humrpt33a LOCUS       HUMRPT33A     344 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 203 : 242 -- length 40 score 38
+ACACACACACACACACACACACACACACACACACACACAC
+>humrpt34a LOCUS       HUMRPT34A     200 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 107 : 138 -- length 32 score 30
+ACACACACACACACACACACACACACACACAC
+>humrpt35a LOCUS       HUMRPT35A     322 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 225 : 269 -- length 45 score 43
+ACACACACACACACACACACACACACACACACACACACACACACA
+>humrpt36a LOCUS       HUMRPT36A     255 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 162 : 220 -- length 59 score 57
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt37a LOCUS       HUMRPT37A     196 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 33 : 73 -- length 41 score 39
+ACACACACACACACACACACACACACACACACACACACACA
+>humrpt38a LOCUS       HUMRPT38A     219 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 29 : 64 -- length 36 score 34
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+dinucleotide 65 : 82 -- length 18 score 16
+AGAGAGAGAGAGAGAGAG
+>humrpt39a LOCUS       HUMRPT39A     256 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 86 : 128 -- length 43 score 41
+ACACACACACACACACACACACACACACACACACACACACACA
+>humrpt40a LOCUS       HUMRPT40A     279 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 68 : 113 -- length 46 score 44
+ACACACACACACACACACACACACACACACACACACACACACACAC
+>humrpt41a LOCUS       HUMRPT41A     193 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 57 : 115 -- length 59 score 45
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTTGGTGTGTGTGTGTGT
+dinucleotide 136 : 147 -- length 12 score 10
+GCGCGCGCGCGC
+>humrpt42a LOCUS       HUMRPT42A     340 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 223 : 260 -- length 38 score 36
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt43a LOCUS       HUMRPT43A     323 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 240 : 272 -- length 33 score 31
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt44a LOCUS       HUMRPT44A     275 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 86 : 115 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>humrpt45a LOCUS       HUMRPT45A     281 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 146 : 190 -- length 45 score 43
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrpt46a LOCUS       HUMRPT46A     266 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 151 : 192 -- length 42 score 40
+ACACACACACACACACACACACACACACACACACACACACAC
+>humrpt47a LOCUS       HUMRPT47A     451 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 327 : 341 -- length 15 score 13
+TATATATATATATAT
+dinucleotide 342 : 372 -- length 31 score 29
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humrpt48a LOCUS       HUMRPT48A     256 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 53 : 89 -- length 37 score 28
+ACACACACACACACACACACACACACACATACACACA
+>humrpt49a LOCUS       HUMRPT49A     189 bp ds-DNA             PRI       04-SEP-1992
+tetranucleotide 53 : 71 -- length 19 score 15
+AAACAAACAAACAAACAAA
+dinucleotide 76 : 112 -- length 37 score 35
+ACACACACACACACACACACACACACACACACACACA
+>humrpt50a LOCUS       HUMRPT50A     217 bp ds-DNA             PRI       04-SEP-1992
+tetranucleotide 51 : 74 -- length 24 score 20
+AAATAAATAAATAAATAAATAAAT
+dinucleotide 77 : 90 -- length 14 score 12
+TATATATATATATA
+dinucleotide 91 : 116 -- length 26 score 24
+CACACACACACACACACACACACACA
+>humrpt51a LOCUS       HUMRPT51A     240 bp ds-DNA             PRI       04-SEP-1992
+dinucleotide 26 : 66 -- length 41 score 39
+CACACACACACACACACACACACACACACACACACACACAC
+>humrpta LOCUS       HUMRPTA       176 bp ds-DNA             PRI       04-JUN-1993
+dinucleotide 8 : 42 -- length 35 score 33
+TGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGT
+>humrsdnpa LOCUS       HUMRSDNPA     188 bp ds-DNA             PRI       08-SEP-1993
+dinucleotide 104 : 140 -- length 37 score 35
+ACACACACACACACACACACACACACACACACACACA
+>humtetrepd LOCUS       HUMTETREPD    474 bp ds-DNA             PRI       13-SEP-1993
+trinucleotide 48 : 71 -- length 24 score 21
+AATAATAATAATAATAATAATAAT
+dinucleotide 75 : 90 -- length 16 score 14
+AGAGAGAGAGAGAGAG
+tetranucleotide 91 : 105 -- length 15 score 11
+GAAGGAAGGAAGGAA
+tetranucleotide 107 : 119 -- length 13 score 9
+GGAGGGAGGGAGG
+tetranucleotide 128 : 220 -- length 93 score 74
+AGAAAGAAAGAAAGAAAGANAGAAAGAANGAAAGANAGANAGANAGACAGANAGAAAGAA
+AGAAAGAAAGAAAGAAAGANAGAAAGANAGAAA
+pentanucleotide 221 : 235 -- length 15 score 10
+AGAAAAGAAAAGAAA
+>humtrinraa LOCUS       HUMTRINRAA    376 bp ds-DNA             PRI       09-NOV-1993
+trinucleotide 116 : 162 -- length 47 score 44
+AATAATAATAATAATAATAATAATAATAATAATAATAATAATAATAA
+dinucleotide 336 : 367 -- length 32 score 28
+ATATATATATATATATATATATATATATNTNT
+>humtrpta LOCUS       HUMTRPTA      687 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 529 : 563 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+>humtrptb LOCUS       HUMTRPTB      515 bp ds-DNA             PRI       08-MAY-1993
+trinucleotide 267 : 299 -- length 33 score 23
+TATTATTATTATTATTAATTATTATTATTATTA
+dinucleotide 388 : 440 -- length 53 score 30
+CACACACACACACACACGCACACGCACACACACGCACACACACACACACACAC
+>humtrptc LOCUS       HUMTRPTC      297 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 132 : 177 -- length 46 score 37
+ACACACACACACACACACACACACACACACACTCACACACACACAC
+>humtrptd LOCUS       HUMTRPTD      512 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 269 : 324 -- length 56 score 47
+CACACACACACACACACACACACACACACACACACACACACACACACGCACACACA
+tetranucleotide 409 : 422 -- length 14 score 10
+ATTCATTCATTCAT
+>humtrpte LOCUS       HUMTRPTE      596 bp ds-DNA             PRI       08-MAY-1993
+tetranucleotide 175 : 187 -- length 13 score 9
+CACCCACCCACCC
+dinucleotide 434 : 444 -- length 11 score 9
+ACACACACACA
+dinucleotide 453 : 473 -- length 21 score 19
+ACACACACACACACACACACA
+dinucleotide 503 : 534 -- length 32 score 30
+ACACACACACACACACACACACACACACACAC
+dinucleotide 535 : 557 -- length 23 score 21
+TCTCTCTCTCTCTCTCTCTCTCT
+>humtrptf LOCUS       HUMTRPTF      248 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 59 : 88 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>humtrptg LOCUS       HUMTRPTG      494 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 378 : 408 -- length 31 score 29
+ACACACACACACACACACACACACACACACA
+>humtrpth LOCUS       HUMTRPTH      183 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 45 : 79 -- length 35 score 33
+ACACACACACACACACACACACACACACACACACA
+>humtrpti LOCUS       HUMTRPTI      298 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 245 : 276 -- length 32 score 30
+CACACACACACACACACACACACACACACACA
+>humtrptj LOCUS       HUMTRPTJ      244 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 58 : 72 -- length 15 score 13
+ATATATATATATATA
+dinucleotide 73 : 108 -- length 36 score 34
+CACACACACACACACACACACACACACACACACACA
+>humtrptk LOCUS       HUMTRPTK      216 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 60 : 90 -- length 31 score 29
+CACACACACACACACACACACACACACACAC
+>humtrptl LOCUS       HUMTRPTL      268 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 152 : 204 -- length 53 score 51
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTG
+>humtrptm LOCUS       HUMTRPTM      259 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 77 : 116 -- length 40 score 38
+ACACACACACACACACACACACACACACACACACACACAC
+dinucleotide 121 : 131 -- length 11 score 9
+TCTCTCTCTCT
+>humtrptn LOCUS       HUMTRPTN      428 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 354 : 403 -- length 50 score 48
+ACACACACACACACACACACACACACACACACACACACACACACACACAC
+>humtrpto LOCUS       HUMTRPTO      551 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 427 : 463 -- length 37 score 35
+ACACACACACACACACACACACACACACACACACACA
+pentanucleotide 493 : 506 -- length 14 score 9
+TTTTGTTTTGTTTT
+>humtrptp LOCUS       HUMTRPTP      253 bp ds-DNA             PRI       08-MAY-1993
+dinucleotide 104 : 136 -- length 33 score 31
+CACACACACACACACACACACACACACACACAC
+>humtumnec LOCUS       HUMTUMNEC    1605 bp ss-mRNA            PRI       22-JUL-1993
+dinucleotide 605 : 634 -- length 30 score 28
+ACACACACACACACACACACACACACACAC
+>m62276 LOCUS       M62276        157 bp ss-mRNA            EST       26-MAY-1992
+tetranucleotide 21 : 34 -- length 14 score 10
+GGGAGGGAGGGAGG
+>m78296 LOCUS       M78296        416 bp ss-mRNA            EST       26-MAY-1992
+trinucleotide 244 : 322 -- length 79 score 48
+CATCATCATCACCATCACCATCATCACCATCACCATCATCATCATCATCATCATCATCAT
+CATCATCATCATCATCATC
+>m78890 LOCUS       M78890        283 bp ss-mRNA            EST       26-MAY-1992
+dinucleotide 55 : 67 -- length 13 score 10
+TGTNTGTGTGTGT
+dinucleotide 71 : 89 -- length 19 score 16
+TGTGTGTGTGTGTGTGTNT
+>m79073 LOCUS       M79073        394 bp ss-mRNA            EST       26-MAY-1992
+dinucleotide 51 : 100 -- length 50 score 41
+GTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTGTATGTGTGT
+>t03162 LOCUS       T03162        299 bp ss-mRNA            EST       24-MAY-1994
+dinucleotide 24 : 68 -- length 45 score 22
+TGTGTGTGTGTGTGTGTGTGTGCGCGTGTGTGTGCGTGTGTGTGT
+>t03474 LOCUS       T03474        350 bp ss-mRNA            EST       24-MAY-1994
+dinucleotide 71 : 107 -- length 37 score 21
+CACACACACATACACACACACACACACGCACACACAC
+>t05049 LOCUS       T05049        307 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 97 : 108 -- length 12 score 9
+ATAATAATAATA
+>t05146 LOCUS       T05146        383 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 273 : 285 -- length 13 score 9
+TATTTATTTATTT
+>t05155 LOCUS       T05155        269 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 140 : 152 -- length 13 score 10
+TTATTATTATTAT
+>t05213 LOCUS       T05213        221 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 126 : 154 -- length 29 score 27
+ACACACACACACACACACACACACACACA
+>t05293 LOCUS       T05293        334 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 222 : 236 -- length 15 score 11
+TTTGTTTGTTTGTTT
+>t05298 LOCUS       T05298        247 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 237 : 247 -- length 11 score 9
+ATATATATATA
+>t05378 LOCUS       T05378        354 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 194 : 212 -- length 19 score 15
+TTTATTTATTTATTTATTT
+>t05453 LOCUS       T05453        351 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 80 : 91 -- length 12 score 9
+TTGTTGTTGTTG
+>t05476 LOCUS       T05476        350 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 70 : 89 -- length 20 score 15
+TTTTGTTTTGTTTTGTTTTG
+>t05629 LOCUS       T05629        284 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 67 : 89 -- length 23 score 20
+TTGTTGTTGTTGTTGTTGTTGTT
+>t05642 LOCUS       T05642        374 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 13 : 27 -- length 15 score 13
+TCTCTCTCTCTCTCT
+>t05682 LOCUS       T05682        388 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 253 : 269 -- length 17 score 13
+ACAAACAAACAAACAAA
+>t05744 LOCUS       T05744        337 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 306 : 318 -- length 13 score 9
+TCTATCTATCTAT
+>t05758 LOCUS       T05758        327 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 126 : 141 -- length 16 score 12
+TGTATGTATGTATGTA
+dinucleotide 147 : 162 -- length 16 score 12
+GTNTGTNTGTGTGTGT
+>t05833 LOCUS       T05833        360 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 152 : 168 -- length 17 score 12
+AAAAGAAAAGAAAAGAA
+>t05839 LOCUS       T05839        318 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 245 : 258 -- length 14 score 11
+AATAATAATAATAA
+>t05844 LOCUS       T05844        271 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 198 : 245 -- length 48 score 39
+ACACACACACACACACACACACATACACACACACACACACACACACAC
+>t05945 LOCUS       T05945        394 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 42 : 53 -- length 12 score 10
+ATATATATATAT
+>t05981 LOCUS       T05981        241 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 86 : 107 -- length 22 score 17
+AAATAAATAAATAANTAAATAA
+>t05996 LOCUS       T05996        287 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 125 : 138 -- length 14 score 10
+TATTTATTTATTTA
+>t06012 LOCUS       T06012        310 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 42 : 60 -- length 19 score 15
+TTTGTTTGTTTGTTTGTTT
+>t06130 LOCUS       T06130        199 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 113 : 135 -- length 23 score 18
+AAAATAAAATAAAATAAAATAAA
+>t06135 LOCUS       T06135        325 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 52 : 87 -- length 36 score 34
+CACACACACACACACACACACACACACACACACACA
+>t06137 LOCUS       T06137        259 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 185 : 198 -- length 14 score 9
+ATAAAATAAAATAA
+>t06193 LOCUS       T06193        316 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 137 : 154 -- length 18 score 9
+ACACACACAGACACACAC
+>t06206 LOCUS       T06206        248 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 77 : 92 -- length 16 score 10
+CAAAACAAANCAAAAC
+>t06234 LOCUS       T06234        271 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 84 : 97 -- length 14 score 9
+AAAATAAAATAAAA
+>t06242 LOCUS       T06242        422 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 22 : 37 -- length 16 score 11
+TTTTGTTTTGTTTTGT
+>t06260 LOCUS       T06260        335 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 54 : 67 -- length 14 score 9
+AAAATAAAATAAAA
+>t06338 LOCUS       T06338        323 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 167 : 180 -- length 14 score 11
+TTATTATTATTATT
+>t06365 LOCUS       T06365        399 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 46 : 65 -- length 20 score 12
+CATTTNATTTNATTTNATTT
+>t06374 LOCUS       T06374        371 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 27 : 39 -- length 13 score 9
+AAATAAATAAATA
+>t06384 LOCUS       T06384        351 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 146 : 159 -- length 14 score 11
+AATAATAATAATAA
+>t06396 LOCUS       T06396        310 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 109 : 135 -- length 27 score 15
+CAAACAAACAAACAAANNAAAAACAAA
+>t06400 LOCUS       T06400        253 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 231 : 243 -- length 13 score 10
+ATAATAATAATAA
+>t06510 LOCUS       T06510        156 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 20 : 70 -- length 51 score 47
+TTTATTTATTTATTTATTTATTTATTTATTTATTTATTTATTTATTTATTT
+>t06628 LOCUS       T06628        359 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 170 : 183 -- length 14 score 9
+AAAATAAAATAAAA
+>t06684 LOCUS       T06684        233 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 125 : 138 -- length 14 score 9
+CCCCACCCCACCCC
+>t06689 LOCUS       T06689        353 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 250 : 272 -- length 23 score 19
+TTTATTTATTTATTTATTTATTT
+>t06714 LOCUS       T06714        415 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 114 : 128 -- length 15 score 11
+AAACAAACAAACAAA
+>t06734 LOCUS       T06734        230 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 158 : 170 -- length 13 score 10
+TGGTGGTGGTGGT
+>t06787 LOCUS       T06787        367 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 111 : 129 -- length 19 score 15
+AAACAAACAAACAAACAAA
+>t06842 LOCUS       T06842        332 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 124 : 138 -- length 15 score 13
+ACACACACACACACA
+>t06917 LOCUS       T06917        332 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 134 : 145 -- length 12 score 9
+AATAATAATAAT
+>t06967 LOCUS       T06967        370 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 331 : 345 -- length 15 score 13
+TATATATATATATAT
+>t07019 LOCUS       T07019        292 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 177 : 199 -- length 23 score 19
+AAATAAATAAATAAATAAATAAA
+>t07044 LOCUS       T07044        357 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 74 : 116 -- length 43 score 39
+AAATAAATAAATAAATAAATAAATAAATAAATAAATAAATAAA
+>t07047 LOCUS       T07047        279 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 99 : 112 -- length 14 score 11
+TTGTTGTTGTTGTT
+>t07164 LOCUS       T07164        285 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 26 : 40 -- length 15 score 11
+TTTATTTATTTATTT
+>t07208 LOCUS       T07208        401 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 224 : 237 -- length 14 score 9
+AAAACAAAACAAAA
+>t07249 LOCUS       T07249        310 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 76 : 90 -- length 15 score 11
+TTTGTTTGTTTGTTT
+>t07285 LOCUS       T07285        340 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 114 : 128 -- length 15 score 10
+AAAACAAAACAAAAC
+>t07376 LOCUS       T07376        338 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 60 : 83 -- length 24 score 20
+CAAACAAACAAACAAACAAACAAA
+>t07401 LOCUS       T07401        336 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 255 : 273 -- length 19 score 15
+AAATAAATAAATAAATAAA
+>t07428 LOCUS       T07428        222 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 62 : 85 -- length 24 score 20
+ATTAATTAATTAATTAATTAATTA
+>t07502 LOCUS       T07502        370 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 251 : 262 -- length 12 score 9
+GAAGAAGAAGAA
+dinucleotide 326 : 341 -- length 16 score 14
+CACACACACACACACA
+>t07516 LOCUS       T07516        290 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 74 : 110 -- length 37 score 21
+CACACACACATACACACACACACACACGCACACACAC
+>t07569 LOCUS       T07569        361 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 3 : 21 -- length 19 score 15
+TTTATTTATTTATTTATTT
+>t07649 LOCUS       T07649        345 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 145 : 168 -- length 24 score 19
+TTTTATTTTATTTTATTTTATTTT
+>t07737 LOCUS       T07737        363 bp ss-mRNA            EST       30-JUN-1993
+pentanucleotide 88 : 111 -- length 24 score 19
+TTTTGTTTTGTTTTGTTTTGTTTT
+>t07789 LOCUS       T07789        395 bp ss-mRNA            EST       30-JUN-1993
+trinucleotide 215 : 227 -- length 13 score 10
+ATAATAATAATAA
+>t07835 LOCUS       T07835        343 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 60 : 94 -- length 35 score 31
+TAAATAAATAAATAAATAAATAAATAAATAAATAA
+>t07929 LOCUS       T07929        360 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 132 : 159 -- length 28 score 24
+GTTTGTTTGTTTGTTTGTTTGTTTGTTT
+>t07939 LOCUS       T07939        274 bp ss-mRNA            EST       30-JUN-1993
+tetranucleotide 46 : 60 -- length 15 score 11
+AAATAAATAAATAAA
+>t07945 LOCUS       T07945        309 bp ss-mRNA            EST       30-JUN-1993
+dinucleotide 19 : 63 -- length 45 score 43
+ACACACACACACACACACACACACACACACACACACACACACACA
+>t07958 LOCUS       T07958        244 bp ss-mRNA            EST       03-AUG-1993
+pentanucleotide 1 : 30 -- length 30 score 17
+GACATGACATGACATGACATAACATGNCAT
+pentanucleotide 31 : 47 -- length 17 score 12
+AACATAACATAACATAA
+tetranucleotide 168 : 184 -- length 17 score 13
+AAAGAAAGAAAGAAAGA
+>t08298 LOCUS       T08298        367 bp ss-mRNA            EST       03-AUG-1993
+trinucleotide 28 : 41 -- length 14 score 11
+GGAGGAGGAGGAGG
+>t08354 LOCUS       T08354        256 bp ss-mRNA            EST       03-AUG-1993
+pentanucleotide 193 : 207 -- length 15 score 10
+CAAAACAAAACAAAA
+>t08502 LOCUS       T08502        411 bp ss-mRNA            EST       03-AUG-1993
+trinucleotide 79 : 95 -- length 17 score 14
+TTATTATTATTATTATT
+tetranucleotide 209 : 227 -- length 19 score 15
+AACAAACAAACAAACAAAC
+>t08616 LOCUS       T08616        309 bp ss-mRNA            EST       03-AUG-1993
+tetranucleotide 68 : 85 -- length 18 score 14
+AAAGAAAGAAAGAAAGAA
+>t08661 LOCUS       T08661        424 bp ss-mRNA            EST       03-AUG-1993
+pentanucleotide 145 : 159 -- length 15 score 10
+TATTTTATTTTATTT
+>t08964 LOCUS       T08964        294 bp ss-mRNA            EST       03-AUG-1993
+tetranucleotide 13 : 32 -- length 20 score 16
+GTTTGTTTGTTTGTTTGTTT
+pentanucleotide 70 : 83 -- length 14 score 9
+AAAATAAAATAAAA
+>t09373 LOCUS       T09373        270 bp ss-mRNA            EST       03-AUG-1993
+trinucleotide 95 : 114 -- length 20 score 11
+GTTGTTGTTGTTTTGTTGTT
